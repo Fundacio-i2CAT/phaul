@@ -28,7 +28,7 @@ To run the agent execute ``python src/main.py``. The `src/main.py` file is confi
 This code has been developed within the research / innovation project NANCY.
 This project has received funding from the European Union’s Horizon 2022 research and innovation programme under grant agreement No 101096456
 
-This project started on 1 January 2023 and ended on 31 December 2025, funded under HORIZON-JU-SNS-2022 Framework Programme, with an overall budget of
+This project started on 1 January 2023 and will end on 31 December 2025, funded under HORIZON-JU-SNS-2022 Framework Programme, with an overall budget of
 €6447428,75 and an EU contribution of €5999798,00, coordinated by PANEPISTIMIO DYTIKIS MAKEDONIAS.
 More information about the grant at https://cordis.europa.eu/project/id/101096456
 # Copyright
