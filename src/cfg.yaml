@@ -1,0 +1,30 @@
+network_size: 40
+root_nodes: 3
+max_child_nodes: 3
+mm_edge_prob: .4
+sub6_edge_prob: .6
+mm_capacity: [800, 1000]
+sub6_capacity: [200, 300]
+
+k_paths: 1
+weighted_reward: 1
+routing_algorithm: 'heuristic'
+
+min_flow_datarate: 500
+max_flow_datarate: 750
+node_active_prob: 0.4
+
+steps_game: 300
+training_steps: 20000
+
+links_to_remove: 0
+
+n_topologies: 5
+validation_samples: 125
+
+results_dir: /home/usuaris/imatge/jorge.pueyo/TFM/racoon-paper-tnsm-gym/results
+exp_name: link_removal_trained
+
+bruteforce_flag: False
+subsetsum_flag: False
+rnd_policy_flag: False
