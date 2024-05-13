@@ -1,14 +1,10 @@
 ![i2cat](https://ametic.es/sites/default/files//i2cat_w.png)
 # PHaul
 
-Related Jira project: [MISSING]
-
 MWI, 2024
 
-CODEOWNERS: daniel.camps@i2cat.net, jorge.pueyo@i2cat.net
+CODEOWNERS: daniel.camps@i2cat.net, miguel.catalan@i2cat.net, pueyo99@gmail.com
 
-# Project status
-[MISSING]
 # Short description
 Python implementation of PHAUL, a Deep Reinforcement Learning Agent that produces the optimal flow allocations for Integrated Access Backhaul networks. 
 # Pre-requisites
@@ -29,13 +25,12 @@ To run the agent execute ``python src/main.py``. The `src/main.py` file is confi
 
 
 # Source
-This code has been developed within the research / innovation project [MISSING].
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No [MISSING]
+This code has been developed within the research / innovation project NANCY.
+This project has received funding from the European Union’s Horizon 2022 research and innovation programme under grant agreement No 101096456
 
-This project started on 1 June 2017 and ended on 31 March 2020, funded under H2020-
-EU.2.1.1 of the Horizon 2020 Framework Programme, with an overall budget of
-€7.710.063,63 and an EU contribution of €6.072.367,40, coordinated by I2CAT.
-More information about the grant at https://cordis.europa.eu/project/id/761508
+This project started on 1 January 2023 and ended on 31 December 2025, funded under HORIZON-JU-SNS-2022 Framework Programme, with an overall budget of
+€6447428,75 and an EU contribution of €5999798,00, coordinated by PANEPISTIMIO DYTIKIS MAKEDONIAS.
+More information about the grant at https://cordis.europa.eu/project/id/101096456
 # Copyright
 This code has been developed by Fundació Privada Internet i Innovació Digital a Catalunya (i2CAT).
 i2CAT is a *non-profit research and innovation centre* that  promotes mission-driven knowledge to solve business challenges, co-create solutions with a transformative impact, empower citizens through open and participative digital social innovation with territorial capillarity, and promote pioneering and strategic initiatives.
@@ -45,5 +40,3 @@ Find more information of i2CAT projects and IP rights at https://i2cat.net/tech-
 This code is licensed under the terms AGPLv3. Information about the license can be located at [link](https://www.gnu.org/licenses/agpl-3.0.html).
 If you find that this license doesn't fit with your requirements regarding the use, distribution or redistribution of our code for your specific work, please, don’t hesitate to contact the intellectual property managers in i2CAT at the following address: techtransfer@i2cat.net
 
-Also, in the following page you’ll find more information about the current commercialization
-status or other licensees: Enllaç a la pàgina web de l’asset (si existeix).
