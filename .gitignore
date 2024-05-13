@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+pyrightconfig.json
+pre_iab_results/
+.vscode
+wandb/
+results/
+multirun/
+outputs/
